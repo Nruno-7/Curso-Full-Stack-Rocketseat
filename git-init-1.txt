@@ -1,1 +1,3 @@
 Essa é a minha primeira alteração, antes de dar um add novamente e te comitar, carinha.
+
+Essa é a minha segunda alteração pro commit, xará. 
